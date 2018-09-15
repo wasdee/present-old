@@ -3,4 +3,4 @@
 
 ## operation
 1. add time emoji indicate how old
-2. (filter out or put in another list) out-of-maintaining repo link
+2. (filter out or put in another md or crossout) out-of-maintaining repo link
