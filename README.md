@@ -1,5 +1,5 @@
 # present
-> Don't waste your time with past. Stay Practical!
+> Don’t get caught up in thinking about the past or the future—live in the now!
 
 ## What is it?
 A curated list of Present Things such as frameworks, libraries, software and resources. All items on this list must follow present manifesto.
